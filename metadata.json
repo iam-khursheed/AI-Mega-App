@@ -1,0 +1,7 @@
+{
+  "name": "AI Mega App",
+  "description": "A comprehensive application showcasing text-to-image, image-to-video, text-to-speech, image editing, and real-time conversational AI using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
